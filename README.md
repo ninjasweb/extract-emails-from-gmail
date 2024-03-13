@@ -25,5 +25,6 @@ To get started, clone this repository and install the required dependencies usin
 
 ```bash
 pip install -r requirements.txt
+```
 
 After installing the dependencies, configure your Gmail credentials and customize the script according to your needs. You're now ready to run the script and start extracting data from Gmail!
